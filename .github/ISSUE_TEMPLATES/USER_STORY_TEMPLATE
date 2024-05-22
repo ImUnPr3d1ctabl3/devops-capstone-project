@@ -1,1 +1,11 @@
-
+**As a** developer
+**I need** to set up the development environment
+**So that** I can start developing and testing the application
+      
+### Details and Assumptions
+    Set up the development environment for coding  
+### Acceptance Criteria     
+    gherkin 
+    Given the development environment is not yet set up
+    When the developer installs and configures the required tools and libraries
+    Then the development environment should be ready for coding
